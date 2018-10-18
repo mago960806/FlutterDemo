@@ -1,8 +1,4 @@
-# sunxiaoye_flutter
+# flutter_demo
 
-A new Flutter project.
+Just for fun.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
