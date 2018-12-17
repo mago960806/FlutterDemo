@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 class LayoutDemo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return Container(
       child: Row(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -124,7 +123,6 @@ class IconBadge extends StatelessWidget {
   IconBadge(this.icon, {this.size = 32.0});
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return Container(
       child: Icon(
         icon,

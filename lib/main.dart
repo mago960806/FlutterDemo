@@ -10,7 +10,6 @@ void main() => runApp(App());
 class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return MaterialApp(
       // 关闭debug标识
       debugShowCheckedModeBanner: false,
@@ -30,7 +29,6 @@ class App extends StatelessWidget {
 class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return DefaultTabController(
       length: 3,
       child: Scaffold(
